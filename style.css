@@ -8,7 +8,7 @@ body{
     display: flex;
     align-items: center;
     justify-content: center;
-    background: rgb(112, 107, 107);
+    /* background: rgb(112, 107, 107); */
 }
 
 .container{
